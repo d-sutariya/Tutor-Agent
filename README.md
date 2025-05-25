@@ -18,7 +18,7 @@ The system follows a multi-agent architecture with the following components:
 
 3. **Tools**
    - Math Agent: Calculator tool for basic arithmetic operations
-   - Physics Agent: Constants lookup tool for physics formulas
+   - Physics Agent: Constants lookup tool for physics formulas.
 
 ## Setup Instructions
 
